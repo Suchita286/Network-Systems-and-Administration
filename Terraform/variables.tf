@@ -49,7 +49,7 @@ variable "instance_type" {
 variable "key_name" {
   description = "Key pair name for EC2 SSH access"
   type        = string
-  default     = "UtkarshSSH_Key"
+  default     = "Suchita_SSH"
 }
 
 variable "user_data" {
